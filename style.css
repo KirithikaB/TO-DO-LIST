@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.background{
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Full stack/todolistbg.png?updatedAt=1700761069523");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center; 
+    text-align: center;
+    color: white;
+}
+.main-heading{
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    font-size: 45px;
+}
+.main-paragraph{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.side-heading{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 25px;
+    margin-left: -300px;
+    display: inline-block;
+    font-weight: bold;
+}
+.side-paragraph{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 19px;
+}
+.button{
+    background-color: orange;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 25px;
+    color: white;
+    background-size: contain;
+    height: 43px;
+    width: 95px;
+}
+.under-line{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 13px; 
+    text-decoration: underline;
+}
